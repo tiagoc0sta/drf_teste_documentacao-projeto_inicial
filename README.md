@@ -19,7 +19,7 @@ python manage.py test
 
 ![WhatsApp Image 2023-08-04 at 7 46 44 PM](https://github.com/tiagoc0sta/drf_teste_documentacao-projeto_inicial/assets/63982700/e33427ea-7eef-482e-ac2a-6be6175ac6e7)
 
-# Course: Python: Automated Tests and Documentation
+
 
 ## Lessons Learned
 
