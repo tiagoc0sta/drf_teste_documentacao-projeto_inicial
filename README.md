@@ -16,7 +16,8 @@ python manage.py test
 
 ## Demo
 
-![image](https://github.com/tiagoc0sta/oo_alura/assets/63982700/d809836c-6d58-4cbd-8a88-fa05cfb3f92c)
+
+![WhatsApp Image 2023-08-04 at 7 46 44 PM](https://github.com/tiagoc0sta/drf_teste_documentacao-projeto_inicial/assets/63982700/e33427ea-7eef-482e-ac2a-6be6175ac6e7)
 
 # Course: Python: Automated Tests and Documentation
 
